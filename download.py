@@ -11,10 +11,12 @@ links = {
     "1t_qok3BNNHN6EK_Uw3WiXrfGtLfQJpCs": ["traj_endeffector.pth", "data/"],
     "1SEZGUvLB2gfVwA-yGTBlF5k3YDiOzYWj": ["traj_probe.pth", "data/"],
     "1p8vo9rig9Q0i0WLVudQBgzkdjtJXcDiS": ["traj_person.pth", "data/"],
-    "13mVaJTsJ7rN-Bz5KtsS20dX1TZFAHLkU": ["test_video.mp4", "data/"],
+    "1Br8Yv8eut1xI3P4q75opG9XFeDWZRJ_J": ["test_video.mp4", "data/"],
     "1P2pV7CTRZbBoqv3i3np2WwU9wCVyHIxG": ["yolov3TATA608_final.weights", "data/"],
     "154S6WyZqLeF3G3gPTMibGnLnVLcpmEwm": ["test_image.jpg", "data/"],
-    "1RAxDumV2FVdBj3uffQtsgsqf-bTvM2cl": ["yolov3TATA608.cfg", "data/"]
+    "1RAxDumV2FVdBj3uffQtsgsqf-bTvM2cl": ["yolov3TATA608.cfg", "data/"],
+    "1Kegd1QTNdvH0jHTMx0Z588r5rG9KIHby": ["yolov3TATA608.cfg", "data/"]
+    
 }
 
 # download the files and save to respective folder
