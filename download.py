@@ -15,7 +15,7 @@ links = {
     "1P2pV7CTRZbBoqv3i3np2WwU9wCVyHIxG": ["yolov3TATA608_final.weights", "data/"],
     "154S6WyZqLeF3G3gPTMibGnLnVLcpmEwm": ["test_image.jpg", "data/"],
     "1RAxDumV2FVdBj3uffQtsgsqf-bTvM2cl": ["yolov3TATA608.cfg", "data/"],
-    "1Kegd1QTNdvH0jHTMx0Z588r5rG9KIHby": ["yolov3TATA608.cfg", "data/"]
+    "1Kegd1QTNdvH0jHTMx0Z588r5rG9KIHby": ["names", "data/"]
     
 }
 
